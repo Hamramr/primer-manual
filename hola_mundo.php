@@ -5,6 +5,6 @@
 	<meta charset="utf-8" />
 	</head>
 	<body>
-		Contenido de hola_mundo.php
+		<?php echo '<p>Hola Mundo</p>'; ?>
 	</body>
 </html>
