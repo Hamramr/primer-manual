@@ -1,10 +1,14 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Adios Mundo!</title>
-	<meta charset="utf-8" />
+		<title>Hasta pronto Mundo</title>
+		<meta charset="utf-8" />
 	</head>
 	<body>
 		<?php echo '<p>Adios Mundo</p>'; ?>
+		<br />
+		<br />
+		<hr>
+		Nos veremos pronto.
 	</body>
 </html>
