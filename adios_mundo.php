@@ -9,6 +9,6 @@
 		<br />
 		<br />
 		<hr>
-		Nos veremos pronto.
+		Nos veremos pronto...
 	</body>
 </html>
